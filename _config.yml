@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://GustavoEmmel.github.io
+title: Desenvolvimento Ágil
+email: gremmel@gmail.com
+author: Gustavo Reichelt Emmel
+description: Aluno da Pós-Graduação UniRitter em Tecnologias Aplicadas a Sistema de Informação com Métodos Ágeis.<br /><br />DESENVOLVEDOR PHP NA TECBIZ - TECNOLOGIA E NEGÓCIOS.
+paginate: 5
+google_analytics: 
