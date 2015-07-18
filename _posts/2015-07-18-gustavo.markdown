@@ -1,6 +1,6 @@
 ---
 published: true
-title: teste 2 
+title: gustavo
 layout: post
 ---
 teste 2 tentando enviar conteudo
